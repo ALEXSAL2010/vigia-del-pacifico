@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vigía del Pacífico · Curso básico</title>
+  <meta name="description" content="Curso básico en línea: de El Niño y el índice ONI al calor, el dengue y la alerta temprana en salud pública.">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>Vigía del Pacífico</span>
+    </a>
+    <div class="player" id="player" aria-live="polite"></div>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal-card">
+      <p class="eyebrow">¡Subiste de nivel!</p>
+      <h2 id="modal-title"></h2>
+      <p id="modal-body"></p>
+      <button class="btn" id="modal-ok">Continuar</button>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <p>Curso básico · Puerto Brisa es una ciudad ficticia; los datos, umbrales y hallazgos son reales.</p>
+    <p><button class="link" id="reset">Reiniciar mi progreso</button></p>
+  </footer>
+
+  <script src="js/contenido.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
