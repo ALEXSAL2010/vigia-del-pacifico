@@ -12,3 +12,9 @@ Curso de autoaprendizaje para estudiantes y profesionales de salud: **de El Niñ
 - Salazar-Ceballos A, Álvarez-Miño L. Incidencia de dengue y su relación con el índice oceánico de El Niño, como variable sensible para anticipar brotes en la región Caribe colombiana. *Biomédica*. 2025;45(Supl.2):56-67. https://doi.org/10.7705/biomedica.7933
 - Climate Prediction Center, NOAA. Oceanic Niño Index (ONI).
 
+Esto significa que usted es libre de:
+
+- **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
+- **Adaptar** — remezclar, transformar y construir a partir del material.
+
+- Bajo los siguientes términos: Alexander Salazar y Lidice Alvarez
