@@ -16,5 +16,5 @@ Esto significa que usted es libre de:
 
 - **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
 - **Adaptar** — remezclar, transformar y construir a partir del material.
-
 - Bajo los siguientes términos: Alexander Salazar y Lidice Alvarez
+- Debes postear en Linkedin y etiquetar a los autores
